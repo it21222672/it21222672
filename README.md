@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software engineering third year undergraduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=zTf6ScmD&id=6D504FF33A0968CBE6409CD601A45BAB9573885D&thid=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fcd37fa49c983ac905df0016fd5b6a2ee%2ftenor.gif%3fitemid%3d13165216&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cd37fa49c983ac905df0016fd5b6a2ee%3frik%3dXYhzlatbpAHWnA%26pid%3dImgRaw%26r%3d0&exph=480&expw=640&q=gif+image+program+the&simid=608031502698421186&FORM=IRPRST&ck=E0967AD7F6ED5CE7DA7A1D0062A32F12&selectedIndex=6">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8fd6ae2f0922e6ed19909533860bde90?rik=Z9fAR26S5HCscw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21222672&label=Profile%20views&color=0e75b6&style=flat" alt="it21222672" /> </p>
 
