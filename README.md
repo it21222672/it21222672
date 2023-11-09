@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8fd6ae2f0922e6ed19909533860bde90?rik=Z9fAR26S5HCscw&pid=ImgRaw&r=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21222672&label=Profile%20views&color=0e75b6&style=flat" alt="it21222672" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21222672" alt="it21222672" /></a> </p>
 
